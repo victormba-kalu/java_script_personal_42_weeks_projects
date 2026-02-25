@@ -1,3 +1,4 @@
+console.log("Tip Calculator Loaded!");
 const calculateBtn = document.getElementById("calculate");
 const billInput = document.getElementById("bill");
 const serviceSelect = document.getElementById("service");
